@@ -30,7 +30,7 @@ Este projeto foi desenvolvido durante o evento **NLW Pocket** da **Rocketseat**,
 ### Back-end
 
 ```
-backend/
+server/
 ├── migrations/
 ├── src/
 │   ├── db/
@@ -47,7 +47,7 @@ backend/
 ### Front-end
 
 ```
-frontend/
+web/
 ├── src/
 │   ├── assets/
 │   ├── components/
@@ -75,7 +75,7 @@ frontend/
    git clone https://github.com/eoivo/in.orbit-
    ```
 
-2. Acesse a pasta **backend** e instale as dependências:
+2. Acesse a pasta **server** e instale as dependências:
 
    ```bash
    cd server
@@ -100,7 +100,7 @@ frontend/
    npm run dev
    ```
 
-6. Acesse a pasta **frontend** e instale as dependências:
+6. Acesse a pasta **web** e instale as dependências:
 
    ```bash
    cd web
